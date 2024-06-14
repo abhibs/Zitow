@@ -228,6 +228,82 @@
                 data-bs-slide-to="1"></button> <button type="button" data-bs-target="#carousel-1"
                 data-bs-slide-to="2"></button></div>
     </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-4">
+                <h6 class="fw-bold text-primary">SPOTLIGHT</h6>
+                <h3 class="fw-bold">Engineered to</h3>
+                <h1 class="fw-bold">unlock business</h1>
+                <h1 class="fw-bold">growth</h1><img class="img-fluid" src="{{ asset('user/assets/img/pattern.png') }}">
+            </div>
+            <div class="col">
+                <div class="row">
+                    <div class="col">
+                        <div class="card bg-transparent">
+                            <div class="card-body">
+                                <h4 class="card-title">GST compliance</h4>
+                                <p class="card-text">Generate e-invoices, e-Way bills, and delivery challans. Calculate liabilities automatically, and file tax returns directly.</p><img class="img-fluid" src="{{ asset('user/assets/img/gst-compliant.png') }}">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card bg-transparent">
+                            <div class="card-body">
+                                <h4 class="card-title">Accounting Across Devices</h4>
+                                <p class="card-text">Generate e-invoices, e-Way bills, and delivery challans. Calculate liabilities automatically, and file tax returns directly.</p><img class="img-fluid" src="{{ asset('user/assets/img/mobile.png') }}">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div class="card bg-transparent">
+                            <div class="card-body">
+                                <h4 class="card-title">Connected banking</h4>
+                                <p class="card-text">Simplify online payments. Fetch bank feeds, categorize entries automatically, and reconcile them effortlessly.</p><img class="img-fluid" src="{{ asset('user/assets/img/connected-banking.png') }}">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card bg-transparent">
+                            <div class="card-body">
+                                <h4 class="card-title">Automation</h4>
+                                <p class="card-text">Trigger emails or notifications for reminders or alerts. Set recurring actions, schedules, and field updates.</p><img class="img-fluid" src="{{ asset('user/assets/img/automation.png') }}">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div class="card bg-transparent">
+                            <div class="card-body">
+                                <h4 class="card-title">Sell globally</h4>
+                                <p class="card-text">Manage foreign transactions with our multi-currency feature. Apply exchange rates automatically or manually.</p><img class="img-fluid" src="{{ asset('user/assets/img/sell-globally.png') }}">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card bg-transparent">
+                            <div class="card-body">
+                                <h4 class="card-title">Customization</h4>
+                                <p class="card-text">Customize Zoho Books to suit your business with custom templates and fields. Get custom reports, too!</p><img class="img-fluid" src="{{ asset('user/assets/img/customization.png') }}">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6">
+                        <div class="card bg-transparent">
+                            <div class="card-body">
+                                <h4 class="card-title">Collaboration</h4>
+                                <p class="card-text">Work as a team, assign roles, permissions, and use customer and vendor portals for transparent, secure communication.</p><img class="img-fluid" src="{{ asset('user/assets/img/collaboration.png') }}">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>  
     <section class="text-bg-dark py-5">
         <div class="container text-dark">
             <div class="row">
