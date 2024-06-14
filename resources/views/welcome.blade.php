@@ -408,6 +408,43 @@
             </div>
         </div>
     </div>
+    <div class="carousel slide" data-bs-ride="false" id="carousel-2">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="container p-5">
+                    <div class="row">
+                        <div class="col-3 text-center"><img class="img-fluid" width="100" height="80" src="{{ asset('user/assets/img/hiralal.png') }}"></div>
+                        <div class="col">
+                            <h5>"I recommended Zoho Books to many of my vendors and customers and they thank me today for it. So, go ahead, try Zoho Books, I am sure you will not find anything like it out there."</h5>
+                            <h5 class="fw-bold text-muted">HIRAL PANCHOLI</h5>
+                            <h6 class="fw-bold text-muted">SWASTIK TECHNOPACK PVT. LTD., MUMBAI, INDIA - DIRECTOR OF OPERATIONS</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="container p-5">
+                    <div class="row">
+                        <div class="col-3 text-center"><img class="img-fluid" width="100" height="80" src="{{ asset('user/assets/img/hiralal.png') }}"></div>
+                        <div class="col">
+                            <h5>"I recommended Zoho Books to many of my vendors and customers and they thank me today for it. So, go ahead, try Zoho Books, I am sure you will not find anything like it out there."</h5>
+                            <h5 class="fw-bold text-muted">HIRAL PANCHOLI</h5>
+                            <h6 class="fw-bold text-muted">SWASTIK TECHNOPACK PVT. LTD., MUMBAI, INDIA - DIRECTOR OF OPERATIONS</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div><a class="carousel-control-prev" href="#carousel-2" role="button" data-bs-slide="prev"><span
+                    class="carousel-control-prev-icon"></span><span class="visually-hidden">Previous</span></a><a
+                class="carousel-control-next" href="#carousel-2" role="button" data-bs-slide="next"><span
+                    class="carousel-control-next-icon"></span><span class="visually-hidden">Next</span></a></div>
+        <div class="carousel-indicators"><button type="button" data-bs-target="#carousel-2" data-bs-slide-to="0"
+                class="active"></button> <button type="button" data-bs-target="#carousel-2"
+                data-bs-slide-to="1"></button> <button type="button" data-bs-target="#carousel-2"
+                data-bs-slide-to="2"></button></div>
+    </div>
     <script src="{{ asset('user/assets/bootstrap/js/bootstrap.min.js') }}"></script>
 </body>
 
