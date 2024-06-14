@@ -7,6 +7,8 @@
     <title>Zitow</title>
     <link rel="stylesheet" href="{{ asset('user/assets/bootstrap/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('user/assets/css/Navbar-Right-Links-icons.css') }}">
+    <link rel="stylesheet" href="{{ asset('user/assets/css/Hero-Carousel-images.css') }}">
+
 </head>
 
 <body>
@@ -58,6 +60,134 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="carousel slide" data-bs-ride="false" id="carousel-1">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-9 offset-1">
+                            <h3 class="text-center">Trusted by businesses and CAs worldwide</h3>
+                            <hr>
+                            <div class="row">
+                                <div class="col">
+                                    <div class="row">
+                                        <div class="col-3"><img></div>
+                                        <div class="col">
+                                            <h6 class="fw-bold">"Most versatile accounting software for every business need"</h6>
+                                            <p class="text-muted">TARUN KUMAR JAIN, DIRECTOR</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-3"><img></div>
+                                        <div class="col">
+                                            <h6 class="fw-bold">"Most versatile accounting software for every business need"</h6>
+                                            <p class="text-muted">TARUN KUMAR JAIN, DIRECTOR</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-3"><img></div>
+                                        <div class="col">
+                                            <h6 class="fw-bold">"Most versatile accounting software for every business need"</h6>
+                                            <p class="text-muted">TARUN KUMAR JAIN, DIRECTOR</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card bg-transparent">
+                                        <div class="card-body">
+                                            <h1 class="card-title">"I TRUST ZOHO BOOKS FOR MY BUSINESS"</h1>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">    <div class="container-fluid">
+                <div class="row">
+                    <div class="col-9 offset-1">
+                        <h3 class="text-center">Trusted by businesses and CAs worldwide</h3>
+                        <hr>
+                        <div class="row">
+                            <div class="col">
+                                <div class="row">
+                                    <div class="col-3"><img></div>
+                                    <div class="col">
+                                        <h6 class="fw-bold">"Most versatile accounting software for every business need"</h6>
+                                        <p class="text-muted">TARUN KUMAR JAIN, DIRECTOR</p>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-3"><img></div>
+                                    <div class="col">
+                                        <h6 class="fw-bold">"Most versatile accounting software for every business need"</h6>
+                                        <p class="text-muted">TARUN KUMAR JAIN, DIRECTOR</p>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-3"><img></div>
+                                    <div class="col">
+                                        <h6 class="fw-bold">"Most versatile accounting software for every business need"</h6>
+                                        <p class="text-muted">TARUN KUMAR JAIN, DIRECTOR</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card bg-transparent">
+                                    <div class="card-body">
+                                        <h1 class="card-title">"I TRUST ZOHO BOOKS FOR MY BUSINESS"</h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div></div>
+            <div class="carousel-item">    <div class="container-fluid">
+                <div class="row">
+                    <div class="col-9 offset-1">
+                        <h3 class="text-center">Trusted by businesses and CAs worldwide</h3>
+                        <hr>
+                        <div class="row">
+                            <div class="col">
+                                <div class="row">
+                                    <div class="col-3"><img></div>
+                                    <div class="col">
+                                        <h6 class="fw-bold">"Most versatile accounting software for every business need"</h6>
+                                        <p class="text-muted">TARUN KUMAR JAIN, DIRECTOR</p>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-3"><img></div>
+                                    <div class="col">
+                                        <h6 class="fw-bold">"Most versatile accounting software for every business need"</h6>
+                                        <p class="text-muted">TARUN KUMAR JAIN, DIRECTOR</p>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-3"><img></div>
+                                    <div class="col">
+                                        <h6 class="fw-bold">"Most versatile accounting software for every business need"</h6>
+                                        <p class="text-muted">TARUN KUMAR JAIN, DIRECTOR</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card bg-transparent">
+                                    <div class="card-body">
+                                        <h1 class="card-title">"I TRUST ZOHO BOOKS FOR MY BUSINESS"</h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div></div>
+        </div>
+        <div><a class="carousel-control-prev" href="#carousel-1" role="button" data-bs-slide="prev"><span class="carousel-control-prev-icon"></span><span class="visually-hidden">Previous</span></a><a class="carousel-control-next" href="#carousel-1" role="button" data-bs-slide="next"><span class="carousel-control-next-icon"></span><span class="visually-hidden">Next</span></a></div>
+        <div class="carousel-indicators"><button type="button" data-bs-target="#carousel-1" data-bs-slide-to="0" class="active"></button> <button type="button" data-bs-target="#carousel-1" data-bs-slide-to="1"></button> <button type="button" data-bs-target="#carousel-1" data-bs-slide-to="2"></button></div>
     </div>
     <script src="{{ asset('user/assets/bootstrap/js/bootstrap.min.js') }}"></script>
 </body>
